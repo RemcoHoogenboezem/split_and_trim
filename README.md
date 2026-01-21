@@ -9,9 +9,9 @@ HTSLib should be installed in the same directory in the source code and compiled
 The program also requires additional system development libraries.\
 On Debian/Ubuntu libbz2-dev, liblzma-dev, libcurl4-openssl-dev, libssl-dev, libdeflate-dev\
 \
-\To build use:\
-\cmake -DCMAKE_BUILD_TYPE=Release -S ./\
-\make\
+To build use:\
+cmake -DCMAKE_BUILD_TYPE=Release -S ./\
+make\
 \
 Usage:\
 \
