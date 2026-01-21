@@ -17,7 +17,7 @@ Usage:\
 \
 split_and_trim [options]\
 \
-  -i --input-bam-file <text>     Single input bam file (required)\
+  -i --input-bam-file <text>\tSingle input bam file (required)\
   -o --output-bam-file <text>    Output bam file (optional default _split.bam)\
   -r --reference-file <text>     Reference file to remove overhang (required)\
   -s --max-alignment-score <int> Maximum alignment score (optional default 255)\
