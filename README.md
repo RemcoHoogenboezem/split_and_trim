@@ -4,13 +4,13 @@ Simple program to split and trim spliced reads\
 \
 Dependencies:\
 \
-\HTSLib should be installed in the same directory in the source code and compiled to genereate 
+HTSLib should be installed in the same directory in the source code and compiled to genereate\
 \
-\The program also requires additional system development libraries.
-\On Debian/Ubuntu libbz2-dev, liblzma-dev, libcurl4-openssl-dev, libssl-dev, libdeflate-dev
-
-Usage:
-
+The program also requires additional system development libraries.\
+On Debian/Ubuntu libbz2-dev, liblzma-dev, libcurl4-openssl-dev, libssl-dev, libdeflate-dev\
+\
+Usage:\
+\
 split_and_trim [options]\
 \
   -i --input-bam-file <text>     Single input bam file (required)\
