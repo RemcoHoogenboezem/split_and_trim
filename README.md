@@ -27,4 +27,4 @@ split_and_trim [options]\
   -p --threads <int>             Number of threads to use (optional default 1)\
   -c --enable-clipping <void>    When introduced use hard clipping (optional default no clipping)\
   -t --enable-trimming <void>    When introduced use trimming (optional default not trimming)\
-  -h --help <void>               This help\
+  -h --help <void>               This help
