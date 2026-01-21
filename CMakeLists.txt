@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5)
 include_directories(htslib/include)
 link_directories(htslib/lib)
 
-add_compile_options(-Wall -mavx2)
+add_compile_options(-Wall)
 
 project(split_N_cigar LANGUAGES CXX)
 
