@@ -16,7 +16,8 @@ make\
 Usage:\
 \
 split_and_trim [options]\
-\
+|Short options|Long option|Type|Description|
+|---|---|---|---|
 |-i|--input-bam-file <text>     |Single input bam file (required)|
 |-o|--output-bam-file <text>    |Output bam file (optional default _split.bam)|
 |-r|--reference-file <text>     |Reference file to remove overhang (required)|
